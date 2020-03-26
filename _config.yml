@@ -1,1 +1,54 @@
 theme: jekyll-theme-cayman
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="css/style.css">`
+	<title>BRANDON SELLAM Bio</title>
+
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+
+	<!-- Site Header -->
+	<header>
+		<!-- h1: The most important headline (only one allowed per page by W3C standards) -->
+		<h1>Student Profile Page</h1>
+	</header>
+
+	<div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h2>Brandon sellam</h2>
+
+			<!-- Headshot image -->
+			<img id="bio-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsKKx1EFvu
+			_8GsYqb-AEZKX4sWE5XogLMouQB6_0Rl5mNKAmZm" alt="BRANDON SELLAM">
+
+			<!-- Paragraph with embedded link -->
+			<h3> Student at the  engineering bootcamp/</h3>
+			<p>
+				BRANDON SELLAM is just starting his journey into coding. 
+			</p>
+		</section>
+
+		<!-- Section 2: Contact Information -->
+		<section id="contact-info">
+
+			<h2>Contact Information</h2>
+			
+			<ul>
+				<li><strong>Email:</strong> <a href="mailto:brandon.sellam@gmail.com">brandon.sellam@gmail.com</a></li>
+				<li><strong>Github:</strong> <a href="https://github.com/masterkaizer">https://github.com/masterkaizer</a></li>
+				<li><strong>Portfolio:</strong> <a href="#">Coming Soon!</a></li>
+                <li><strong>Linkedin:</strong> <a href="https://www.linkedin.com/in/sellam-brandon-6941a074/">htt
+                ps://www.linkedin.com/in/sellam-brandon-6941a074/</a></li>
+				
+			</ul>
+
+		</section>
+	</div>
+
+</body>
+</html>
