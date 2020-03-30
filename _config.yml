@@ -1,8 +1,9 @@
-theme: jekyll-theme-cayman
+
 <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="UTF-8">
+	theme: jekyll-theme-cayman
 	<link rel="stylesheet" type="text/css" href="css/style.css">`
 	<title>BRANDON SELLAM Bio</title>
 
